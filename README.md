@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ECommerce app with feature of sharing revenue between platform holder and brand ambassadors.<br>    Main stack: <br>        Backend: Go, MySQL, Docker<br>        Frontend: Flutter/Angular (to decide later on)<br>👯 I’m looking to collaborate on Scheme compiler written in Haskell<br>🤝 I’m looking for help with code generation and AST desugaring<br>🌱 I’m currently learning Go and Dart languages
+🔭 I’m currently working on ECommerce app with feature of sharing revenue between platform holder and brand ambassadors.<br>    Main stack: <br>        Backend: Go, MySQL, Docker<br>        Frontend: Flutter/Angular (to decide later on)<br>👯 I’m looking to collaborate on Scheme compiler written in Haskell<br>🤝 I’m looking for help with code generation and AST desugaring<br>🌱 I’m currently learning C++ language
 
 
 ## 🌐 Socials:
